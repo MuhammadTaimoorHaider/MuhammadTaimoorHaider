@@ -19,7 +19,7 @@
 I'm **Muhammad Taimoor Haider**, a Software Engineer and AI/ML Engineer based in **Lahore, Pakistan**. I connect interfaces, APIs, data, and models to build software people can use — from asking questions over documents to managing real-world security workflows.
 
 - **Software engineering:** full stack development, REST APIs, relational data, and application integration.
-- **Applied AI:** AI agents, automations, document retrieval, conversational AI, NLP classification, and computer vision.
+- **Applied AI:** AI agents, automations, document retrieval, conversational AI, NLP, and computer vision.
 - **Experience:** full stack development at DartNox, including feature delivery, frontend/backend integration, and defect resolution.
 
 ### Selected builds
